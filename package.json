@@ -1,0 +1,23 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "a web scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grigullb/web-scraper.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grigullb/web-scraper/issues"
+  },
+  "homepage": "https://github.com/grigullb/web-scraper#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.74.0"
+  }
+}
